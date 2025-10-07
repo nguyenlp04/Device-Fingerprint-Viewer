@@ -1,0 +1,5 @@
+{
+  "name": "Device Fingerprint Viewer",
+  "description": "An advanced tool to display detailed information about your device, browser, and network. It collects your system's fingerprint, saves it, and highlights any changes since your last visit.",
+  "requestFramePermissions": []
+}
